@@ -228,7 +228,7 @@ Reiniciamos el apache::
 
 	# systemctl restart httpd
 
-Creamos un directorio para tener toda la data en un FileSystem distinto:
+Creamos un directorio para tener toda la data en un FileSystem distinto::
 
 	# mkdir -p /owncloud/data
 	# chown -R apache.apache /owncloud/
