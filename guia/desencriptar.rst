@@ -1,4 +1,4 @@
-Desencriptar en Owcloud
+Desifrar en Owcloud
 =====================
 ::
 
@@ -17,3 +17,6 @@ Ver el status, en este ejemplo esta encriptado::
 	  - defaultModule: OC_DEFAULT_MODULE
 	# 
 
+
+Aquí esta todo
+https://doc.owncloud.com/server/10.8/admin_manual/configuration/files/encryption/encryption_configuration_quick_guide.html#set-a-recovery-key

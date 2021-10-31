@@ -20,3 +20,8 @@ Ojo se puede perder la data...!!!::
 
 
 .. figure:: ../images/cambiarclave/01.png
+
+
+Si la persona no recuerda cual era su clave anterior se complica todo. Pero si sabe cual es su clave se debe ir a Go to Settings  Personal  Encryption
+
+.. figure:: ../images/cambiarclave/05.png
