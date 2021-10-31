@@ -5,4 +5,4 @@ Go to Settings  Personal  Encryption
 
 Enable the Recovery Key
 
-.. figure:: ../images/cambiarclave/01.png
+.. figure:: ../images/cambiarclave/04.png
