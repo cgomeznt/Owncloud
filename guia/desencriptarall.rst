@@ -48,3 +48,10 @@ Establezca la variable de entorno con, por ejemplo, exportar OC_RECOVERY_PASSWOR
 	Single user mode disabled
 	# 
 
+
+Aquí esta todo
+https://doc.owncloud.com/server/next/admin_manual/configuration/files/encryption/encryption_configuration_quick_guide.html
+
+Y en este se evidencia que si no activan el **file recovery key**, no se podrá **Disable Encryption**.
+https://doc.owncloud.com/server/next/admin_manual/configuration/files/encryption/encryption_configuration.html#how-to-enable-users-file-recovery-keys
+
